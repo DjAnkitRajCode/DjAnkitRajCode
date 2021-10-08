@@ -3,10 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning NextJs
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Full Stack Web Developer
+- 🔭 &nbsp; I’m currently working on NextJs.
+- 🎓 &nbsp; Studying Computer Science Engg.
+- 💼 &nbsp; Full Stack Web Developer.
 - ✍️ &nbsp; Enthusiast in builting websites .
 - ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
 
