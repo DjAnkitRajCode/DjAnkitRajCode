@@ -19,7 +19,20 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DjAnkitRajCode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Raj Github Stats">
+## **Github Statistics**
+
+<p align="center">
+  <a href="https://github.com/DjAnkitRajCode/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=DjAnkitRajCode&theme=gotham&hide_border=true">
+  </a>
+</p>
+<code>
+<center> 
+
+![DjAnkitRajCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjAnkitRajCode&show_icons=true&hide=["issues"]&theme=gotham)
+<center>
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DjAnkitRajCode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ankit Raj Github Stats"> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjAnkitRajCode&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DjAnkitRajCode/github-readme-stats)
